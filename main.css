@@ -50,3 +50,13 @@
     background-color: white;
     display: flex;
 }
+
+.main-block .author-img {
+    margin: 5px;
+    border-radius: 50%;
+}
+
+.main-block .name {
+    font-size: 20px;
+    font-weight: 900;
+}
